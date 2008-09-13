@@ -1,0 +1,3 @@
+== CSSDoc Tool
+
+This is a standalone tool to add comments and generate index listing from a stylesheet. It is inspired by RDoc and will use inline comments in the CSS to create documentation.
